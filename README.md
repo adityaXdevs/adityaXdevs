@@ -3,6 +3,13 @@
 Computer Engineering student at SPPU.
 #
 I have a strong passion for backend development.
+## 💡 Projects  
+I'm currently working on a **Learing web side** using Java Spring Boot, SQL, React.js, and other technologies.  
+
+## 📫 Connect with Me  
+Feel free to reach out on GitHub! I'm always open to learning and collaborating on exciting projects.  
+
+
 
 
 
